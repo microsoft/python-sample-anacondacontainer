@@ -10,7 +10,7 @@
     ```
     https://github.com/Microsoft/python-sample-anacondacontainer
     ```
-1. From Visual Studio Code Insiders, run the ```Remote-Containers: Open Folder in Container...``` and select the AnacondaDevContainer folder
+1. From Visual Studio Code Insiders, run the ```Remote-Containers: Open Folder in Container...``` and select the ```python-sample-anacondacontainer``` folder
 
 1. (Temporary) To get the Python Interactive window to work, install the insiders build of the extension following the instructions [here](https://github.com/Microsoft/vscode-python/blob/master/CONTRIBUTING.md#development-build). 
 
