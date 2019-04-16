@@ -1,4 +1,4 @@
-## Getting Started
+# Getting Started
 
 1. Get set up with Visual Studio Code insiders, Docker and remote extensions [instructions here](https://vscode-docs-remote.azurewebsites.net/docs/remote/remote-overview#_getting-started)
 
@@ -8,14 +8,13 @@
     ```
 1. Clone repo 
     ```
-    git clone https://dev.azure.com/pythontools/_git/AnacondaDevContainer
-    cd AnacondaDevContainer
+    https://github.com/Microsoft/python-sample-anacondacontainer
     ```
 1. From Visual Studio Code Insiders, run the ```Remote-Containers: Open Folder in Container...``` and select the AnacondaDevContainer folder
 
 1. (Temporary) To get the Python Interactive window to work, install the insiders build of the extension following the instructions [here](https://github.com/Microsoft/vscode-python/blob/master/CONTRIBUTING.md#development-build). 
 
-## Run some code!
+# Run some code!
 
 Open ```hello.py``` and ```plots.py``` and run cells by pressing shift+enter.
 
