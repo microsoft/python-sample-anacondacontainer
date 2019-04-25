@@ -1,10 +1,11 @@
+// See https://aka.ms/vscode-remote/containers for the
+// documentation about the devcontainer.json format
 {
-	"name": "Anaconda 3",
-	"dockerComposeFile": "docker-compose.yml",
-	"service": "app",
+	"name": "Python 3 - Anaconda",
+	"context": "..",
+	"dockerFile": "Dockerfile",
 	"workspaceFolder": "/workspace",
 	"extensions": [
-		"ms-python.python",
-		"VisualStudioExptTeam.vscodeintellicode"
+		"ms-python.python"
 	]
 }
